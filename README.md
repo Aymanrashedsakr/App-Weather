@@ -1,7 +1,11 @@
- a fully responsive weather website! 🌦️ Built using Bootstrap framework and vanilla JavaScript, this site marks my first experience working with an API. 🧑‍💻⚙ 
 
 
 
+🏹 Tech Stack:
+ -> ✅HTML,
+ CSS,
+ BOOTSTRAP
+ ,JS
 
 Highlights of the Weather App:
 
